@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735763499392",
+    "firebase_url": "https://educationalapp-4cc8d.firebaseio.com",
+    "project_id": "educationalapp-4cc8d",
+    "storage_bucket": "educationalapp-4cc8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735763499392:android:c92e3723d29a2a75",
+        "android_client_info": {
+          "package_name": "com.example.educational_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735763499392-9gcvvveh0d4ufpq4kchn90fvh79nvt8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAboVU4pQL-2SNGwLk_cxf0pR6sQ68g5T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735763499392-9gcvvveh0d4ufpq4kchn90fvh79nvt8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
